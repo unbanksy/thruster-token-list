@@ -6,6 +6,13 @@
     "tokenDecimals": 18,
     "tokenCategory": "Other"
   },
+ {
+    "tokenAddress": "0x367473E150487e5cDC14D331550ed909b7B2192D",
+    "tokenName": "MindPalace",
+    "tokenSymbol": "AI",
+    "tokenDecimals": 18,
+    "tokenCategory": "DeFi"
+  },
   {
     "tokenAddress": "0x010392305558d58e1cb0eec5529a65bf3545f82e",
     "tokenName": "MACHI",
